@@ -1,18 +1,17 @@
 ![02](https://user-images.githubusercontent.com/98648970/166180404-66f8aa20-eb8d-4234-872f-5cca67b0ccf7.jpg)
 
-<h1 align="center">Hi 👋, I'm Atul Pratap Singh</h1>
+<h1 align="center">Hi 👋, I'm Prakhar Rastogi</h1>
 <h3 align="center">A passionate full-stack developer and DSA Lover.</h3>
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="100"/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanimittal1304&label=Profile%20views&color=0e75b6&style=flat" alt="vanimittal1304" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prastogi23&label=Profile%20views&color=0e75b6&style=flat" alt="Prastogi23" /> </p>
 
-<p align="left"> <a href="https://twitter.com/thakuratul_28" target="blank"><img src="https://img.shields.io/twitter/follow/thakuratul_28?logo=twitter&style=for-the-badge" alt="thakuratul_28" /></a> </p>
 
 - 🔭 I’m currently working on my backend skills and apparently working on different projects.
 
-- 📫 How to reach me **pratapsinghatul111@gmail.com**
+- 📫 How to reach me **23prastogi@gmail.com**
 
 - ⚡ Fun fact **I still Funny boy**
 <div id="header" >
@@ -20,10 +19,10 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<code><a href="https://twitter.com/thakuratul_28"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="thakuratul2" width="30" /></a></code>
-<code><a href="https://linkedin.com/in/atul-pratap-singh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="atul-pratap-singh" height="30" width="30" /></a></code>
-<code><a href="https://instagram.com/thakuratul_28" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="thakuratul28" height="30" width="30" /></a></code>
-<code><a href="https://auth.geeksforgeeks.org/user/thakuratul_28/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="thakuratul_28" height="30" width="30" /></a></code>
+
+<code><a href="https://linkedin.com/in/PrakharRastogi23" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="PrakharRastogi23" height="30" width="30" /></a></code>
+<code><a href="https://instagram.com/_mr_rastogi_ji" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="_mr_rastogi_ji" height="30" width="30" /></a></code>
+<code><a href="https://auth.geeksforgeeks.org/user/23prasyprn/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="23prasyprn" height="30" width="30" /></a></code>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -69,7 +68,7 @@
             </td>
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
-              <a href="https://github.com/vanimittal1304" target="_blank" rel="noreferrer">
+              <a href="https://github.com/Prastogi23" target="_blank" rel="noreferrer">
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
             <td width="80px" align="center">
             <span><strong>Javascript</strong></span><br>
@@ -85,8 +84,8 @@
     </tbody>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakuratul2&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="thakuratul2" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prastogi23&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="Prastogi23" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thakuratul2&show_icons=true&locale=en&show_icons=true&theme=radical" alt="thakuratul2" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Prastogi23&show_icons=true&locale=en&show_icons=true&theme=radical" alt="Prastogi23" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakuratul2&&show_icons=true&theme=radical" alt="thakuratul2" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prastogi23&&show_icons=true&theme=radical" alt="Prastogi23" /></p>
